@@ -2,8 +2,6 @@
 
 An AI-powered simulation of a self-driving car that can detect lanes, recognize objects, explain its driving decisions using traffic rules, and interact via a natural language interface.
 
-![VAC Demo](https://i.imgur.com/q3oTtG2.gif) <!-- Optional: Add demo gif or image -->
-
 ---
 
 ## 📦 Features
