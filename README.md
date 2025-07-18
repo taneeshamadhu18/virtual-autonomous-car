@@ -47,5 +47,5 @@ An AI-powered simulation of a self-driving car that can detect lanes, recognize 
 
 ---
 
-## 📂 Project Structure
+
 
